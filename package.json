@@ -1,0 +1,14 @@
+{
+  "name": "ecommerce-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rizwan Mustafa <rizwanmustafa0000@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.4.1",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server",
+    "admin"
+  ]
+}
